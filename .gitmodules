@@ -1,0 +1,6 @@
+[submodule "cinepath-paris-texas"]
+	path = cinepath-paris-texas
+	url = https://github.com/Belphe13/cinepath-paris-texas.git
+[submodule "cinepath-frances-ha"]
+	path = cinepath-frances-ha
+	url = https://github.com/Belphe13/cinepath-frances-ha.git
