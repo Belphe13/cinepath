@@ -8,6 +8,13 @@ Links to see the visualizations:
 
 - [Cinepath: Frances Ha](https://lilanyang.studio/cinepath-frances-ha)
 
+
+Testing instructions to run locally:
+```
+python3 -m http.server
+```
+
+
 ## Project Overview
 Started with rigorous research on where each scene of a movie was shot, Cinepath projects fictional spatial movement on real-life Google Maps as a personal voyage of cinema using data visualization to investigate how cinema creates new landmarks and reshapes the cultural landscape.
 
