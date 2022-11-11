@@ -1,8 +1,12 @@
 # Cinepath
 
-[Cinepath: Paris, Texas](https://lilanyang.studio/cinepath-paris-texas)
-[Cinepath: Paris, Texas V2 with Customized Markers](https://lilanyang.studio/v2-cinepath-paris-texas)
-[Cinepath: Frances Ha](https://lilanyang.studio/cinepath-frances-ha)
+Links to see the visualizations:
+
+- [Cinepath: Paris, Texas](https://lilanyang.studio/cinepath-paris-texas)
+
+- [Cinepath: Paris, Texas V2 with Customized Markers](https://lilanyang.studio/v2-cinepath-paris-texas)
+
+- [Cinepath: Frances Ha](https://lilanyang.studio/cinepath-frances-ha)
 
 ## Project Overview
 Started with rigorous research on where each scene of a movie was shot, Cinepath projects fictional spatial movement on real-life Google Maps as a personal voyage of cinema using data visualization to investigate how cinema creates new landmarks and reshapes the cultural landscape.
